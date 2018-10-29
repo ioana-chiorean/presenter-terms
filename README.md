@@ -1,28 +1,24 @@
-# Christian Heilmann speaking terms
+# Ioana Chiorean's speaking terms
 
-Hello I am Chris and I am happy that you are interested in me speaking at your event. I have defined presenter terms and here is an overview. In addition to the ones here, please refer to the [So you want me to talk?](https://christianheilmann.com/2012/04/25/so-you-want-me-to-talk/) article on my blog. I am a professional presenter with lots of experience. Therefore I want to make sure that there is no misconception about what I expect and deliver.
+Aloha! I am Ioana and I am happy that you are interested in me speaking at your event. I have defined presenter terms and here is an overview. 
 
 ## :wave: Personal information
 
-* **Name:** Christian Heilmann
-* **Company:** Microsoft
-* **Job Title:** Senior Program Manager
-* **Twitter:** [@codepo8](https://twitter.com/codepo8)
-* **Blog/Homepage:** https://christianheilmann.com
-* **Location:** Berlin, Germany
+* **Name:** Ștefania Ioana Chiorean (I only use Ioana most times)
+* **Company:** Softvision / Mozilla
+* **Job Title:** QA Community Manager / Reps Module owner
+* **Twitter:** [@ioana_cis](https://twitter.com/ioana_cis)
+* **Blog/Homepage:** 
+* **Location:** Cluj-Napoca, Romania
 
 ## :vhs: Videos of note 
 
 In case you are interested in seeing me in action, here are some talks I liked:
 
-* [We are Developers 2018: Sacrificing the Golden Calf of Coding](https://www.youtube.com/watch?v=iPfMatOgRBg)
-* [AI Devcon San Francisco: AI for Human Interfaces](http://aidc.gallery.video/detail/video/5789367429001/ai-for-human-interfaces---use-cases-and-ethics?autoStart=true&q=heilmann)
-* Skillshare courses: [The Complete JavaScript Toolkit](https://skl.sh/christian_javascript) and [Demystifying Artificial Intelligence: Understanding Machine Learning](https://skl.sh/christian) 
 
 ## :pencil: Presenter Bio
 
-> Chris Heilmann dedicated the last 20 years of his life to make the web work and thrive. As a lead developer on some of the largest web products he learned that knowledge is not enough without teamwork and good handover. He dedicated most of his time since on educating, writing and sharing, presenting on average at 30 conferences a year. He strives to make code and coders work efficiently. He is the author of several JavaScript books and the Developer Evangelism handbook (http://developer-evangelism.com). He is currently a Senior Program Manager in Microsoft and spends a lot of time pondering how machine learning and AI can aid humans and replace jobs we're too important to do. 
-
+> 
 ## :love_letter: I am available for... 
 
 - [x] Keynotes 
@@ -34,16 +30,14 @@ In case you are interested in seeing me in action, here are some talks I liked:
 
 ## :gift: Subjects I cover... 
 
-- [x] JavaScript/CSS/HTML - Web development 
+- [x] Quality Assurance
 - [x] Progressive Web Apps 
-- [x] Development practices and culture
-- [x] Developer Relations 
-- [x] Accessibility 
-- [x] Machine Learning / Artificial Intelligence
+- [x] (Open) Communities practices and culture
 - [x] Community building 
+- [ ] Accessibility 
 - [x] Careers in Tech 
-- [x] Development tools
-- [x] Future of computing
+- [x] Women in Tech
+- [x] 
 
 ## :collision: Show stoppers
 
@@ -52,9 +46,10 @@ I know it is hard to organise events, so I want to make sure that we are on the 
 * :x: I will not present at a panel or a conference line-up with an obvious lack of diversity. Our audience comes in all shapes and sizes, so should the experts on stage
 * :x: I expect the conference to have an enforced code of conduct 
 * :x: I don't "pay to play". As a presenter, I expect full access to the event.
-* :x: I don't deal with sponsorships of the event and I am not interested in sponsored speaking slots. 
 * :x: I have a list of people I will not present alongside and I refuse to present at events that have certain sponsors. I will flag that up to you when that is the case. I am sorry, that this is the case, but it helps.
 
+
+--------------------
 ## :dancer: My deliveries at your event
 
 Here's what I will do when invited as a presenter at your event.
@@ -108,23 +103,6 @@ Even with the best intentions, there may be trouble and I might not be available
 ## :camera: Presenter Headshots 
 
 [![Chris Heilmann at EnterJS](/photos/thumb-chris-heilmann-enterjs-cropped.jpg)](/photos/chris-heilmann-enterjs-cropped.jpg) 
-[![Chris Heilmann on stage at EnterJS](/photos/thumb-chris-heilmann-enterjs-live-cropped.jpg)](/photos/chris-heilmann-enterjs-live-cropped.jpg)
-[![Chris Heilmann on Surface Book](/photos/thumb-chris-heilmann-on-surface-book.jpg)](/photos/chris-heilmann-on-surface-book.jpg)
-[![Chris Heilmann at Smashingconf](/photos/thumb-chris-heilmann-dotted-shirt-microphone.jpg)](/photos/chris-heilmann-dotted-shirt-microphone.jpg)
-[![Chris Heilmann at Internet Days](/photos/thumb-chris-heilmann-internetdagarna2016.jpg)](/photos/chris-heilmann-internetdagarna2016.jpg)
-[![Chris Heilmann Peeking](/photos/thumb-chris-heilmann-tie-peeking.jpg)](/photos/chris-heilmann-tie-peeking.jpg)
-[![Chris Heilmann at Great Wide Open](/photos/thumb-chris-heilmann-great-wide-open.jpg)](/photos/chris-heilmann-great-wide-open.jpg)
-[![Chris Heilmann at TEDx Thessaloniki](/photos/thumb-chris-heilmann-tedx-open.jpg)](/photos/chris-heilmann-tedx-open.jpg)
-[![Chris Heilmann at TEDx Thessaloniki](/photos/thumb-chris-heilmann-tedx-thumbs.jpg)](/photos/chris-heilmann-tedx-thumbs.jpg)
-[![Chris Heilmann Mozilla shirt](/photos/thumb-chris-heilmann-hasgeek-mozilla.jpg)](/photos/chris-heilmann-hasgeek-mozilla.jpg)
-[![Chris Heilmann Mozilla shirt](/photos/thumb-chris-heilmann-black-polo.jpg)](/photos/chris-heilmann-black-polo.jpg)
 
 ## :copyright: Photo licenses and information:
 
-* Tie and Internet photo: https://www.flickr.com/photos/stiftelsen/31116017256/
-* Dotted shirt and headset: https://www.flickr.com/photos/marcthiele/31398799070/ 
-* Black shirt and clicker: https://www.flickr.com/photos/124087764@N06/25684379484/ 
-* White shirt open gesture: https://www.flickr.com/photos/tedxthess/14306326115/in/photostream/
-* White shirt thumbs: https://www.flickr.com/photos/tedxthess/14304426622 
-* Mozilla shirt smile: https://www.flickr.com/photos/hasgeek/9928238174/ 
-* Black polo: https://www.flickr.com/photos/szene/8900138988/ 
